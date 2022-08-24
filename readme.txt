@@ -1,3 +1,18 @@
+App created during MegaK course. 
+Its all about creating your tasty cookie using base, and adding additional ingredients.
+
+Written in JS, express.js, handlebars and of course some html and css styling included.
+Main focus was to be more familiar with backend operations and how everything works together.
+
+Views, paths, partials, routers, data storage and cookies(files). All those topics was in this
+project, so it was a lot of new things to lear and broaden my knowlegde.
+
+Pretty happy with the result in general, and last but not least its going to be more and more uderstandable.
+Cant wait to dive deeper in backends world.
+
+
+
+
 
 ******************************************************************
 npm i express-handlebars@5.3.4 == gdyby handelbarsy nie dzialaly
